@@ -95,7 +95,6 @@ html,body {
     width: 70px;
 }
 
-/************SOCIALS *************/
 
 .social1 {
     position: sticky;
@@ -119,7 +118,7 @@ html,body {
     cursor: pointer;
     border: 2px solid #000;
     display: flex;
-    justify-content: center;
+    justify-content: center; 
     align-items: center;
 }
 .main-container {
